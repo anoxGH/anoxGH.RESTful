@@ -1,0 +1,13 @@
+{
+    "name": "anoxGH/RESTful",
+    "type": "typo3-flow-package",
+    "description": "Abstract RESTful layer",
+    "require": {
+        "typo3/flow": "*",
+    },
+    "autoload": {
+        "psr-0": {
+            "Mw\\Core\\Login": "Classes"
+        }
+    }
+}
